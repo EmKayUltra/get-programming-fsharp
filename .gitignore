@@ -30,3 +30,6 @@ _ReSharper*/
 **/packages/*
 *.dbmdl
 *.jfm
+
+.ionide/
+.vscode/
